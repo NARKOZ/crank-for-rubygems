@@ -1,0 +1,10 @@
+{
+  "name": "Gem Finder",
+  "description": "Easy find Ruby gems",
+  "version": "0.1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2
+}
