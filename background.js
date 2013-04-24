@@ -5,7 +5,7 @@ function openRubygemsPage(context) {
 }
 
 chrome.contextMenus.create({
-  'title': 'Open in Rubygems',
+  'title': 'Open in RubyGems.org',
   'contexts': ['selection'],
   'onclick': openRubygemsPage
 });
