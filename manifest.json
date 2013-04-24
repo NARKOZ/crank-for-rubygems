@@ -1,6 +1,6 @@
 {
-  "name": "Gem Finder",
-  "description": "Easy find Ruby gems",
+  "name": "Crank for Rubygems",
+  "description": "Open selected text in RubyGems.org",
   "version": "0.1",
   "permissions": ["contextMenus"],
   "background": {
