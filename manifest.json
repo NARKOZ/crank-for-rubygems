@@ -1,6 +1,7 @@
 {
   "name": "Crank for Rubygems",
   "description": "Open selected text in RubyGems.org",
+  "homepage_url": "https://github.com/NARKOZ/crank-for-rubygems",
   "version": "0.1",
   "permissions": ["contextMenus"],
   "background": {
