@@ -40,7 +40,7 @@ function registerInjector() {
     });
   });
 
-  observer.observe(target, config);
+  if (target) { observer.observe(target, config); }
   inject();
 }
 
